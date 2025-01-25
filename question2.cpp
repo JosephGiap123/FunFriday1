@@ -61,12 +61,6 @@ class ToyBelts{
 
 		void removeDefectAndCombine(Node*& head1, int a, int b, Node*& head2){
 
-			if(a == 1){
-
-			}
-			else{
-				
-			}
 			if(a>b || head1 == nullptr){
 				return;
 			}
